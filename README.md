@@ -6,7 +6,7 @@ For info on the related shared task, please refer to: https://healthlanguageproc
 
 ## Task 1
 
-The first task is binary classification of twitter posts for mentions of adverse drug reactions (ADRs). The program takes as input a post and returns a binary 0/1 indicating whether it or not contains ADR mentions.
+The first task is binary classification of twitter posts for mentions of adverse drug reactions (ADRs). The program takes as input a post and returns a binary 0/1 indicating whether or not it contains ADR mentions.
 
 In this task our best model is an ensemble involving both a traditional machine learning approach (logistic regression) and a deep learning approach (CNN with attention). 
 
