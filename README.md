@@ -1,6 +1,6 @@
-# Deep model for 2nd Social Media Mining for Health Applications Shared Task at AMIA 2017
+# UKNLP team's supervised models for the 2nd Social Media Mining for Health Applications Shared Task at AMIA 2017
 
-This repository contains code for task 1 and 2 of the 2nd Social Media Mining for Health Applications shared task at AMIA 2017 which focuses on medication/drug-related chatter Twitter. The tasks are described below with more documentation available in their respective subdirectories.
+This repository contains code for task 1 and 2 of the 2nd Social Media Mining for Health Applications shared task at AMIA 2017 which employed supervised framework for identifying ADR mentions and classifying medication intake messages on Twitter. The tasks are described below with more documentation available in their respective subdirectories.
 
 For info on the related shared task, please refer to: https://healthlanguageprocessing.org/sharedtask2/
 
